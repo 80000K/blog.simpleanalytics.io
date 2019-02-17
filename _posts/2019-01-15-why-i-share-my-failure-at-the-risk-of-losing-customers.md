@@ -4,7 +4,7 @@ author_slug: adriaan
 author: Adriaan van Rossum
 ---
 
-As the owner of Simple Analytics I think it’s super important to build user trust. It’s impossible to not make any mistakes so if a company never shares theirs, it’s probably not telling you any mistake. So here is mine.
+As the owner of Simple Analytics, I think it’s super important to build user trust. It’s impossible to not make any mistakes so if a company never shares theirs, it’s probably not telling you any mistake. So here is mine.
 
 When you're building new features, you probably want to deploy them as fast as possible because you're too excited to show them to your customers. Or sometimes you're adding a new service to your server and you didn't know what kind of implication it could have. The latter happened to me.
 
